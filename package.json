@@ -1,0 +1,23 @@
+{
+  "name": "markdown-it-missing-refs",
+  "version": "0.1.0",
+  "description": "Plugin for Markdown-It which returns a list of unresolved references.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benparsons/markdown-it-missing-refs.git"
+  },
+  "keywords": [
+    "markdown",
+    "markdown-it"
+  ],
+  "author": "benparsons",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benparsons/markdown-it-missing-refs/issues"
+  },
+  "homepage": "https://github.com/benparsons/markdown-it-missing-refs#readme"
+}
